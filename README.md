@@ -7,9 +7,6 @@ I'm a full-stack developer who loves microservices, self-hosting, and clean DevO
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring-boot)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
 
-## 📊 GitHub Stats
-![Hazwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hzwnrw&show_icons=true&theme=radical)
-
 ## 📈 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hzwnrw&layout=compact)
 
