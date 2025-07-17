@@ -8,11 +8,11 @@ I'm a full-stack developer who loves microservices, self-hosting, and clean DevO
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
 
 ## 📊 GitHub Stats
-![Hazwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hazwanrawi&show_icons=true&theme=radical)
+![Hazwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hzwnrw&show_icons=true&theme=radical)
 
 ## 📈 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hazwanrawi&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hzwnrw&layout=compact)
 
 ## 🔥 Contribution Graph
-[![GitHub Streak](https://streak-stats.demolab.com?user=hazwanrawi&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hzwnrw&theme=radical)](https://git.io/streak-stats)
 
