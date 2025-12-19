@@ -3,10 +3,11 @@
 I’m a **full-stack developer** passionate about **microservices**, **self-hosting**, and **clean DevOps pipelines**.  
 I enjoy building scalable systems and running my own infrastructure.
 
->  **Primary home:** I’ve moved all new projects to my **self-hosted Gitea instance** at  
->  https://git.hzwnrw.my/hzwnrw  
+> Most of my repositories here on GitHub are **mirrors of my self-hosted Gitea instance**:  
+> https://git.hzwnrw.my/hzwnrw  
 >  
-> I still use GitHub from time to time, but it’s no longer my main platform.
+> New development happens primarily on Gitea, and GitHub is used mostly for showcase or backup.
+
 
 ---
 
