@@ -50,8 +50,6 @@ I enjoy building scalable systems and running my own infrastructure.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hzwnrw&layout=compact)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=hzwnrw&theme=radical)](https://git.io/streak-stats)
-
 ---
 
 ##  Contact Me
