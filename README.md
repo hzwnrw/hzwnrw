@@ -37,14 +37,6 @@ I enjoy building scalable systems and running my own infrastructure.
 
 ---
 
-##  Key Projects (Gitea)
-- Clinic (Microservices) — https://git.hzwnrw.my/Clinic
-- Insurance System — https://git.hzwnrw.my/Insurance
-- Jenkins CI/CD — https://git.hzwnrw.my/Jenkins
-- Proxmox Homelab — https://git.hzwnrw.my/Proxmox
-
----
-
 ##  GitHub Stats (Legacy / Mirror)
 > Older projects and occasional activity live here.
 
