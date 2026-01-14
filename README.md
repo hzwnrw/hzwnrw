@@ -3,11 +3,6 @@
 I’m a **full-stack developer** passionate about **microservices**, **self-hosting**, and **clean DevOps pipelines**.  
 I enjoy building scalable systems and running my own infrastructure.
 
-> Most of my repositories here on GitHub are **mirrors of my self-hosted Gitea instance**:  
-> https://git.hzwnrw.my/hzwnrw  
->  
-> New development happens primarily on Gitea, and GitHub is used mostly for showcase or backup.
-
 
 ---
 
@@ -37,17 +32,8 @@ I enjoy building scalable systems and running my own infrastructure.
 
 ---
 
-##  GitHub Stats (Legacy / Mirror)
-> Older projects and occasional activity live here.
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hzwnrw&layout=compact)
-
----
-
 ##  Contact Me
 - Email: hzwnrw@gmail.com
-- Portfolio: https://hzwnrw.my
-- Code: https://git.hzwnrw.my/hzwnrw
 
 ---
 
